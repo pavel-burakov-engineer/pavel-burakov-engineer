@@ -1,24 +1,25 @@
 ![banner](banner/banner2.jpg)
-# Инженер-конструктор
+# 3D artist Design engineer
 
-## О себе
-Инженер-конструктор с опытом разработки металлоконструкций и узлов машин.
-Работаю с 3D-моделями, чертежами, расчётами прочности.
+## About me
+Experienced in the development of machines, devices and constractions.
+Worked in different fields of industry.
 
-## Навыки
-- Проектирование металлоконструкций
-- 3D-моделирование
-- Подготовка КД
-- Технические расчёты
+## Hardskills
+- Industrial designing (prototyping)
+- 3D-CAD modelling
+- Calculations
+- 2D drawings
+- Renderings and Animations
 
-## Инструменты
+## Main Software
 - AutoCAD
 - SolidWorks
-- Autodesk Inventor
-- Excel (расчёты)
+- Blender
+- Keyshot
 
-## Проекты
-⬇️ Ниже представлены примеры моих работ с описаниями и файлами.
+## Portfolio
+⬇️ Below you may find some of my projects
 
 
 <!--
