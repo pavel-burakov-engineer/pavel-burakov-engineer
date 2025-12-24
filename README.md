@@ -1,4 +1,4 @@
-![banner](banner/banner.jpg)
+![banner](banner/banner1.jpg)
 # Инженер-конструктор
 
 ## О себе
