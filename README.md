@@ -1,5 +1,5 @@
 ![banner](banner/banner2.jpg)
-# 3D artist Design engineer
+# 3D Artist and Design Engineer
 
 ## About me
 Experienced in the development of machines, devices and constractions.
