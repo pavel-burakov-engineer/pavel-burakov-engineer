@@ -19,7 +19,7 @@ Worked in different fields of industry.
 - Keyshot
 
 ## Portfolio
-⬇️ Below you may find active links to some of my projects (Some of the data is hidden because it is not public)
+⬇️ Below you may find active links to some of my projects (Some of nonpublic data is hidden)
 
 
 <!--
